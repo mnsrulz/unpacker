@@ -1,0 +1,21 @@
+{
+  "name": "unpacker",
+  "version": "0.3.0-alpha-1",
+  "description": "A nodejs library to unpack p.a.c.k.e.d javascript code.",
+  "main": "dist\\main.js",
+  "scripts": {    
+    "build": "tsc",
+    "prepublishOnly": "tsc"
+  },
+  "author": "mnsrulz",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^14.0.27",
+    "typescript": "^3.9.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnsrulz/unpacker.git"
+  }
+}
