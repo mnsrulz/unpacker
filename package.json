@@ -1,6 +1,6 @@
 {
   "name": "unpacker",
-  "version": "0.3.0-alpha-3",
+  "version": "1.0.1",
   "description": "A nodejs library to unpack p.a.c.k.e.d javascript code.",
   "main": "./dist/main.js",
   "types": "./dist/main.d.ts",
