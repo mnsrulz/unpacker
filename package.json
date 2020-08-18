@@ -1,8 +1,9 @@
 {
   "name": "unpacker",
-  "version": "0.3.0-alpha-2",
+  "version": "0.3.0-alpha-3",
   "description": "A nodejs library to unpack p.a.c.k.e.d javascript code.",
-  "main": "dist\\main.js",
+  "main": "./dist/main.js",
+  "types": "./dist/main.d.ts",
   "scripts": {
     "build": "tsc",
     "build:live": "tsc -w",
